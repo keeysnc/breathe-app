@@ -1,2 +1,2 @@
 # breathe-app
-An documentation app for respiratory patients
+An symptom documentation app for respiratory patients
